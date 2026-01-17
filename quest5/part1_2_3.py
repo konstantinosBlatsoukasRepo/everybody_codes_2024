@@ -258,7 +258,6 @@ test_parsed_input = parse(TEST_PART3_INPUT)
 assert start_dance_part3(test_parsed_input) == 6584
 
 
-
 PART3_INPUT = """1005 1006 1003 1009
 1003 1004 1006 1004
 1004 1004 1004 1004
